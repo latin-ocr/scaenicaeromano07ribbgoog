@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scaenicaeromano07ribbgoog_0003.png"; bbox 0 0 792 1113; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 315 548 340">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 315 548 340">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 315 548 340; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 235 315 338 336; x_wconf 68' lang='lat' dir='ltr'><strong>bawarb</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 351 315 447 340; x_wconf 43' lang='lat' dir='ltr'>college*</span> <span class='ocrx_word' id='word_1_3' title='bbox 453 315 548 340; x_wconf 67' lang='lat' dir='ltr'>‘libram</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 263 619 523 693">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 263 619 523 693">
+     <span class='ocr_line' id='line_1_2' title="bbox 263 619 523 634; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 263 620 355 634; x_wconf 84' lang='lat' dir='ltr'>BOUGHT</span> <span class='ocrx_word' id='word_1_5' title='bbox 368 619 428 634; x_wconf 85' lang='lat' dir='ltr'>WITH</span> <span class='ocrx_word' id='word_1_6' title='bbox 445 619 523 634; x_wconf 77' lang='lat' dir='ltr'>MONEY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 263 648 522 664; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 263 649 376 664; x_wconf 85' lang='lat' dir='ltr'>RECEIVED</span> <span class='ocrx_word' id='word_1_8' title='bbox 395 648 459 663; x_wconf 84' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_9' title='bbox 475 648 522 663; x_wconf 85' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 263 678 522 693; baseline -0.004 0"><span class='ocrx_word' id='word_1_10' title='bbox 263 679 320 693; x_wconf 78' lang='lat' dir='ltr'>SALE</span> <span class='ocrx_word' id='word_1_11' title='bbox 334 678 364 693; x_wconf 85' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_12' title='bbox 375 678 522 693; x_wconf 77' lang='lat' dir='ltr'>DUPLICATES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 582 259 585 799">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 582 259 585 799">
+     <span class='ocr_line' id='line_1_5' title="bbox 582 259 585 799; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 582 259 585 799; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 583 253 595 805">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 583 253 595 805">
+     <span class='ocr_line' id='line_1_6' title="bbox 583 253 595 805; baseline 0 308"><span class='ocrx_word' id='word_1_14' title='bbox 583 253 595 805; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
